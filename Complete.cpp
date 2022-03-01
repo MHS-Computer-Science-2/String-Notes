@@ -30,9 +30,9 @@ int main()
     str[0] = 'C';
     
     //YOU TRY: change all the 'a's to '@'
-    str[12] = '@';
-    str[24] = '@';
-    str[29] = '@';
+    str[13] = '@';
+    str[25] = '@';
+    str[30] = '@';
 
     str[2] = str[2] + 2;    //Increase 3rd char by 2
     cout << "After changing, str = " << str << endl;
