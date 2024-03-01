@@ -1,6 +1,6 @@
 //5-1 Intro to Chars and Strings
 //  I CAN explain how a CHAR, INT, and STRING are related
-//  I CAN explain how ACSII values represent characters
+//  I CAN explain how ASCII values represent characters
 //  I CAN use a loop to access and modify the characters of a string
 
 #include <iostream>
